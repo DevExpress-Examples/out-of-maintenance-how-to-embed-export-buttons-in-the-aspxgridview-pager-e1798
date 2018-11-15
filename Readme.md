@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ExportGridView.cs](./CS/WebSite/App_Code/ExportGridView.cs) (VB: [ExportGridView.vb](./VB/WebSite/App_Code/ExportGridView.vb))
+* [ExportGridViewPager.cs](./CS/WebSite/App_Code/ExportGridViewPager.cs) (VB: [ExportGridViewPager.vb](./VB/WebSite/App_Code/ExportGridViewPager.vb))
+* [ExportHelper.cs](./CS/WebSite/App_Code/ExportHelper.cs) (VB: [ExportHelper.vb](./VB/WebSite/App_Code/ExportHelper.vb))
+* [ExportType.cs](./CS/WebSite/App_Code/ExportType.cs) (VB: [ExportType.vb](./VB/WebSite/App_Code/ExportType.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # [OBSOLETE] How to embed export buttons in the ASPxGridView pager
 
 #### Starting with v17.2, ASPxGridView provides built-in Toolbar with Export buttons: [Exporting to Different Formats Demo](https://demos.devexpress.com/ASPxGridViewDemos/Exporting/Exporting.aspx). Set the [ASPxGridExportSettings.EnableClientSideExportAPI](https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxGridExportSettings.EnableClientSideExportAPI.property) property to True to use it. 
